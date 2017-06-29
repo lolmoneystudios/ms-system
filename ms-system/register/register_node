@@ -1,0 +1,17 @@
+minetest.register_node("ms-system:isan_ore"), {
+ description = "isan ore",
+ tiles = {"isan_ore_png.png"},
+ groups = {cracky=2},
+})
+
+minetest.register_node("ms-system:isan_ore_sparkling"), {
+ description = "sparkling isan ore",
+ tiles = {"isan_ore_sparkling_png.png"},
+ groups = {cracky=2},
+})
+
+minetest.register_node("ms-system:isan_block"), {
+ description = "isan block",
+ tiles = {"isan_block_png.png"},
+ groups = {cracky=1},
+})

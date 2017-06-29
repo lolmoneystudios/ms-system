@@ -1,0 +1,9 @@
+minetest.register_craftitem("ms-system:isan_ingot"), {
+ description = "isan ingot",
+ tiles = {"isan_ingot_png.png"},
+})
+
+minetest.register_craftitem("ms-system:isan_ingot_sparkling"), {
+ description = "sparkling isan ingot",
+ tiles = {"isan_ingot_sparkling_png.png"},
+})
